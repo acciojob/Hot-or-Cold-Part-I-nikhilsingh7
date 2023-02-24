@@ -14,5 +14,6 @@ btn.addEventListener('click', ()=>{
         hotOrCold.innerText = 'Cold';
     }
 })
-  
+    
+        
 
